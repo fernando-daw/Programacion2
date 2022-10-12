@@ -10,7 +10,7 @@ public class ejercicio12 {
         int edad=18;
         int carnet=0;
         carnet=restultado>edad ? restultado: edad;
-        System.out.println("puedes obtener el permiso de conducir ");
+        System.out.println( "tienes mas de 18 años? " + resultado);
 
     }
 }
